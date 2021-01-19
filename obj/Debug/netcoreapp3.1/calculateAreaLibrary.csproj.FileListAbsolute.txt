@@ -1,0 +1,8 @@
+C:\Users\Alex\source\repos\ConsoleAppMindbox\calculateAreaLibrary\bin\Debug\netcoreapp3.1\calculateAreaLibrary.deps.json
+C:\Users\Alex\source\repos\ConsoleAppMindbox\calculateAreaLibrary\bin\Debug\netcoreapp3.1\calculateAreaLibrary.dll
+C:\Users\Alex\source\repos\ConsoleAppMindbox\calculateAreaLibrary\bin\Debug\netcoreapp3.1\calculateAreaLibrary.pdb
+C:\Users\Alex\source\repos\ConsoleAppMindbox\calculateAreaLibrary\obj\Debug\netcoreapp3.1\calculateAreaLibrary.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ConsoleAppMindbox\calculateAreaLibrary\obj\Debug\netcoreapp3.1\calculateAreaLibrary.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ConsoleAppMindbox\calculateAreaLibrary\obj\Debug\netcoreapp3.1\calculateAreaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ConsoleAppMindbox\calculateAreaLibrary\obj\Debug\netcoreapp3.1\calculateAreaLibrary.dll
+C:\Users\Alex\source\repos\ConsoleAppMindbox\calculateAreaLibrary\obj\Debug\netcoreapp3.1\calculateAreaLibrary.pdb
